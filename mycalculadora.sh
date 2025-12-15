@@ -1,4 +1,5 @@
 #!/bin/bash
+python3 mycalculadora.py
 
 echo "digite o primeiro numero"
 read a
